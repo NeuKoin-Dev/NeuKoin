@@ -9,10 +9,18 @@ NeuKoin is a large project Called NeuKoin Creations. The project intends to make
 NeuKoin Token Specifics
 
 300 million Total Supply
+
 12% Slippage
+
 2% Reflection
+
 9% Liquidity
 
+
 Twitter: https://twitter.com/OfficialNeukoin
+
 Reddit: https://www.reddit.com/r/NeuKoin/
+
 Github: https://github.com/NeuKoin-Dev/NeuKoin
+
+Telegram: https://t.me/NeuKoin_Official
