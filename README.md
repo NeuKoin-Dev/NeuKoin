@@ -1,0 +1,2 @@
+# NeuKoin
+NeuKoin Cryptocurrency Contract
