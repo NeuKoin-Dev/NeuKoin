@@ -16,14 +16,14 @@ NeuKoin Token Specifics
 
 9% Liquidity
 
-Website: https://neukoin.com/
+NeuKoin Website: https://neukoin.com/
 
-Twitter: https://twitter.com/OfficialNeukoin
+NeuKoin Twitter: https://twitter.com/OfficialNeukoin
 
-Reddit: https://www.reddit.com/r/NeuKoin/
+NeuKoin Reddit: https://www.reddit.com/r/NeuKoin/
 
-Github: https://github.com/NeuKoin-Dev/NeuKoin
+NeuKoin Github: https://github.com/NeuKoin-Dev/NeuKoin
 
-Youtube: https://www.youtube.com/channel/UCwo-Irn1gRe9JlzZ8GyT09A
+NeuKoin Youtube: https://www.youtube.com/channel/UCwo-Irn1gRe9JlzZ8GyT09A
 
-Telegram: https://t.me/NeuKoin_Official
+NeuKoin Telegram: https://t.me/NeuKoin_Official
