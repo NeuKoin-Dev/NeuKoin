@@ -10,11 +10,11 @@ NeuKoin Token Specifics
 
 300 million Total Supply
 
-12% Slippage
+3% Reflection
 
-2% Reflection
+3% Liquidity
 
-9% Liquidity
+3% Marketing
 
 NeuKoin Website: https://neukoin.com/
 
