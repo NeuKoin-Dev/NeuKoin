@@ -27,3 +27,5 @@ NeuKoin Github: https://github.com/NeuKoin-Dev/NeuKoin
 NeuKoin Youtube: https://www.youtube.com/channel/UCwo-Irn1gRe9JlzZ8GyT09A
 
 NeuKoin Telegram: https://t.me/NeuKoin_Official
+
+NeuKoin Whitepaper: https://neukoin.com/NeuKoin-Creations-Whitepaper.pdf
