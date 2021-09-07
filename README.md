@@ -11,8 +11,11 @@ NeuKoin Creations Token $NEUK Token Specifics
 3 billion Total Supply
 
 3% Liquidity
+
 2% Reflection
+
 3% Development
+
 2% Marketing
 
 NeuKoin Website: https://neukoin.com/
