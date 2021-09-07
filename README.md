@@ -8,13 +8,12 @@ NeuKoin Creations Token $NEUK is part of a large project Called NeuKoin Creation
 
 NeuKoin Creations Token $NEUK Token Specifics
 
-300 million Total Supply
-
-3% Reflection
+3 billion Total Supply
 
 3% Liquidity
-
-3% Marketing
+2% Reflection
+3% Development
+2% Marketing
 
 NeuKoin Website: https://neukoin.com/
 
